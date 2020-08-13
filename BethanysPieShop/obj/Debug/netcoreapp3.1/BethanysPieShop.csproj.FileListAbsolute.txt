@@ -73,3 +73,4 @@ C:\Users\alexj\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp
 C:\Users\alexj\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CoreCompileInputs.cache
 C:\Users\alexj\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\alexj\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
+C:\Users\alexj\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PieCard.cshtml.g.cs
